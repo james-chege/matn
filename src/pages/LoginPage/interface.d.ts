@@ -1,0 +1,3 @@
+interface LoginPageProps {
+    data: object;
+}

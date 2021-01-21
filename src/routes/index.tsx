@@ -7,7 +7,7 @@ import HomePage from '../pages/HomePage/HomePage';
 import LoginPage from '../pages/LoginPage/LoginPage';
 import StudentsPage from '../pages/StudentsPage/StudentsPage';
 import StudentPage from "../pages/StudentPage/StudentPage";
-import PrivateRoute from "../components/PrivateRoute/PrivateRout";
+import PrivateRoute from "../components/PrivateRoute";
 import NavBar from '../components/Navigation/NavBar';
 
 const Routes = () => (

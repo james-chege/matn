@@ -1,0 +1,34 @@
+.main-container {
+  text-align: center;
+  height: 100vh !important;
+
+  .main-header {
+    font-size: 3em !important;
+    font-weight: normal !important;
+    margin-bottom: 0 !important;
+    color: black !important;
+  }
+
+  .home-warm-greetings {
+    font-size: 1.7em !important;
+    font-weight: normal !important;
+    color: black !important;
+  }
+
+  .login-actions {
+    text-align: center;
+  }
+
+}
+
+
+.header {
+  border: none;
+  margin: calc(2rem - .14285714em) 0 1rem;
+  padding: 0 0;
+  font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  line-height: 1.3em;
+  text-transform: none;
+  color: rgba(0, 0, 0, .87) !important;
+}
