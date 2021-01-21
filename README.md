@@ -1,3 +1,11 @@
+# Status
+[![Build Status](https://travis-ci.org/james-chege/matn.svg?branch=develop)](https://travis-ci.org/james-chege/matn)
+[![Coverage Status](https://coveralls.io/repos/github/james-chege/matn/badge.svg?branch=develop)](https://coveralls.io/github/james-chege/matn?branch=develop)
+
+# Prerequisite
+* Rename `.env-sample` to `.env` and update the api url
+
+You can follow the steps below to run the server and tests
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
