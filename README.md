@@ -1,6 +1,6 @@
 # Status
-[![Build Status](https://travis-ci.org/james-chege/matn.svg?branch=develop)](https://travis-ci.org/james-chege/matn)
-[![Coverage Status](https://coveralls.io/repos/github/james-chege/matn/badge.svg?branch=develop)](https://coveralls.io/github/james-chege/matn?branch=develop)
+[![Build Status](https://travis-ci.org/james-chege/matn.svg?branch=master)](https://travis-ci.org/james-chege/matn)
+[![Coverage Status](https://coveralls.io/repos/github/james-chege/matn/badge.svg?branch=master)](https://coveralls.io/github/james-chege/matn?branch=master)
 
 
 # Prerequisite
